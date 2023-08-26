@@ -1,17 +1,10 @@
 # midi2hydrogen.pl
 
-#    ____________________________________________________________________
-#   /                                                                    \
-#  |               ____  __      ___          _____  /     ___    ___     |
-#  |     ____       /  \/  \  ' /   \      / /      /__   /   \  /   \    |
-#  |    / _  \     /   /   / / /    /  ___/  \__   /     /____/ /    /    |
-#  |   / |_  /    /   /   / / /    / /   /      \ /     /      /____/     |
-#  |   \____/    /   /    \/_/    /  \__/  _____/ \__/  \___/ /           |
-#  |                                                         /            |
-#  |                                                                      |
-#  |   Copyright (c) 2007                     Herve Masson, MindStep SARL |
-#  |   rvmindstep@users.sourceforge.net                                   |
-#   \____________________________________________________________________/
+This program has been written by:
+
+Herve Masson, MindStep SARL
+Copyright (c) 2007                      |
+rvmindstep@users.sourceforge.net                                   |
 
 
 midi2hydrogen.pl - MIDI file conversion script for hydrogen (hydrogen-music.org)
