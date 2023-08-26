@@ -94,9 +94,9 @@ $KITPATH="/usr/share/hydrogen/data/drumkits";
 # Which H2 kit we are using
 # =========================
 
-$KITNAME="GMkit";
+$KITNAME="GMRockKit";
 
-# This is the instrument mapping between MIDI and (GMkit)h2:
+# This is the instrument mapping between MIDI and (GMRockKit)h2:
 # ==========================================================
 
 %INSTRUMENTMAP=
